@@ -1,7 +1,7 @@
 # 🌐 WebView2 Browser Template
 
 <p align="left">
-  <img src="https://iili.io/Bm7dXVI.jpg" width="90" height="90" style="border-radius:50%;" />
+  <img src="https://iili.io/Bm7dXVI.jpg" width="90" height="90" />
 </p>
 
 Hey — this is just a simple **WebView2 browser template** I put together.
